@@ -1,0 +1,21 @@
+*{
+    margin:20px
+    
+}
+.stars{
+    background-color: rgba(0, 0, 212, 0.705);
+    width: 395px;
+    height: 200px;
+    
+ 
+  
+    
+
+}
+p{ 
+    color: #fffeff;
+    font-size: 23px;
+    line-height: 7px;
+    letter-spacing: 15px;
+    text-align: center;
+}
